@@ -1,4 +1,4 @@
-]https://raw.githubusercontent.com/imexwilliam-ctrl/William/refs/heads/main/1710191B-B299-4E80-8932-5A55624EDCD0%205.png<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7a65ca26-ccdc-42f5-951f-21fdf4cbc71b" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7a65ca26-ccdc-42f5-951f-21fdf4cbc71b" />
 (https://github.com/USERNAME/REPOSITORY/blob/main/background.jpg?raw=true)
 
 <p align="center">
