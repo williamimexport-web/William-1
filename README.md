@@ -1,5 +1,13 @@
+<!-- 🔹 William Imex README with background banner -->
+
+<p align="center">
+  <img src="https://github.com/USERNAME/REPOSITORY/blob/main/background.jpg?raw=true" 
+       alt="William Imex Banner" 
+       style="width:100%; border-radius:10px;"/>
+</p>
+
 # 🌍 William Imex  
-### Import & Export& travel | Shipping & Logistics Services  
+### Import & Export & Travel | Shipping & Logistics Services  
 
 ---
 
@@ -30,7 +38,7 @@ Our mission is to make global trade easier, faster, and more reliable for our pa
 ## 📞 Contact Us  
 
 **William Imex**  
-*Import & Export& Services*  
+*Import & Export Services*  
 📍 Lebanon | Germany  
 
 📞 **Lebanon:** +961 81858968  
@@ -38,8 +46,21 @@ Our mission is to make global trade easier, faster, and more reliable for our pa
 ✉️ **Email:** [williamimex@outlook.com](mailto:williamimex@outlook.com)  
 ✉️ **Gmail:** [imexwilliam@gmail.com](mailto:imexwilliam@gmail.com)  
 🌐 **Website:** [www.williamimex.com](http://www.williamimex.com)  
-## ⚙️ Official Signature  
+
 ---
+
+## ⚙️ Official Signature  
+
+**William Imex**  
+Import & Export Services  
+📍 Lebanon | Germany  
+📞 Lebanon: +961 81858968  
+📞 Germany: +49 15511334369  
+✉️ williamimex@outlook.com  
+🌐 [williamimex.com](http://www.williamimex.com)
+
+---
+
 ## 🛠️ Currently Building  
 > Our full website is under construction and will launch soon.  
 > Stay tuned for updates on [www.williamimex.com](http://www.williamimex.com)
