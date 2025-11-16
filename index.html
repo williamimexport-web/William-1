@@ -22,18 +22,6 @@ body::before{
   filter:brightness(.26) contrast(.98);
   z-index:0;
 }
-  .plane {
-            width: 100px;
-            position: absolute;
-            top: 50px;
-            left: -150px;
-            animation: fly 12s linear infinite;
-        }
-
-        @keyframes fly {
-            0% { left: -150px; top: 50px; }
-            50% { left: calc(100% + 150px); top: 120px; }
-            100% { left: -150px; top: 50px; }
 /* Layout */
 .wrap{position:relative;z-index:1;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:28px}
 .card{width:100%;max-width:1250px;background:linear-gradient(180deg, rgba(0,0,0,0.20), rgba(0,0,0,0.36));border-radius:14px;padding:36px;border:1px solid rgba(212,175,55,0.06);box-shadow:0 30px 80px rgba(0,0,0,0.6);display:grid;grid-template-columns:1fr 420px;gap:28px;align-items:center}
@@ -115,7 +103,19 @@ body::before{
         <div class="globe" role="img" aria-label="Globe">
           <img src="rrr.jpg" alt="globe" />
         </div>
+        .plane {
+            width: 100px;
+            position: absolute;
+            top: 50px;
+            left: -150px;
+            animation: fly 12s linear infinite;
+        }
 
+        @keyframes fly {
+            0% { left: -150px; top: 50px; }
+            50% { left: calc(100% + 150px); top: 120px; }
+            100% { left: -150px; top: 50px; }
+            
         <!-- animated plane (simple SVG) -->
         <div class="plane" aria-hidden="true">
           <svg viewBox="0 0 512 120" width="220" height="60" xmlns="http://www.w3.org/2000/svg" fill="none">
